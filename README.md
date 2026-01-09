@@ -3,6 +3,8 @@
 
 ---
 
+### Aclaración: acordamos previamente con Soraya Malpica que los datasets no se subirán al repositorio público por contener datos sensibles. Por lo que la carpeta Datasets esta vacía. Los datasets, crudos y curados se entregaron de froma privada para que los códigos de los notebooks funcionen.
+
 ## Descripción del proyecto
 
 Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre federados de deportes de montaña en la Comunidad de Madrid, con el objetivo de analizar la **relación entre el perfil del federado, el tipo de seguro contratado y la siniestralidad asociada**.
